@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://ead3.archivists.org/schema/" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<ead>
+  <control></control>
+  <archdesc></archdesc>
+</ead>
